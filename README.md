@@ -1,9 +1,11 @@
-### What is this
+## What is this
 This is a simple webapp for a travel agency.
 
 I wanted to get some practice with Material UI and refresh my design skills – this was a great project for both of them.
 
 All the images used come from https://unsplash.com.
+
+## How it works
 
 After the welcome page, user can choose one of several holiday packages:
 
@@ -17,11 +19,9 @@ On top of that, user can filter the results based on several tags.
 
 ![Hotel Selection Page](src/img/screenshoots/Hotel-selection.png?raw=true "Hotel Selection Page")
 
-Finally, user will see a short summary page, confirming previous choices and allowing them to pay.
-
-(Pay Now button doesn't actually do anything.)
+Finally, user will see a short summary page, confirming previous choices and allowing them to pay (button doesn't do anything).
 
 ![Summary Page](src/img/screenshoots/Summary-page.png?raw=true "Summary Page")
 
-### Setup
-Use `npm run` to start the app.
+## Setup
+Use `npm start` to start the app.
