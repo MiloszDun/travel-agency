@@ -1,10 +1,11 @@
 import React, {useState} from 'react';
+import { Link } from 'react-router-dom';
 import { Typography, Container, Stack, Grid, Card, CardContent, CardMedia, CardActions, Switch, FormControlLabel } from '@mui/material';
 import CustomButton from '../components/CustomButton';
 import { useAppContext } from '../data/AppContext';
 
 const HotelSelection = () => {
-  const { selectedPackage, HotelsData } = useAppContext();
+  const { selectedPackage, HotelsData, setSelectedHotel } = useAppContext();
 
   const [isAllInclusive, setIsAllInclusive] = useState(false);
   const [isPetFriendly, setIsPetFriendly] = useState(false);
@@ -70,7 +71,9 @@ const HotelSelection = () => {
                   ))}
                 </CardContent>
                 <CardActions disableSpacing sx={{ paddingRight: 2}}>
-                  <CustomButton size="small">Select</CustomButton>
+                  <Link to="/summary" onClick={() => {setSelectedHotel(hotel)}}>
+                    <CustomButton size="small">Select</CustomButton>
+                  </Link>
                   <Typography variant="body1" color="text.secondary" sx={{marginLeft: 'auto'}}>
                     ${hotel.price} / night
                   </Typography>

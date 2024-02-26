@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 
 const Package = ({ item, setSelectedPackage}) => {
   const handleClick = () => {
-    console.log('Package selected')
     setSelectedPackage(item);
   }
 
