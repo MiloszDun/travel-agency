@@ -15,7 +15,7 @@ Based on the package selected, user will see different hotels available.
 
 On top of that, user can filter the results based on several tags.
 
-![Hotel Selection Page](src/img/screenshoots/Package-selection.png?raw=true "Hotel Selection Page")
+![Hotel Selection Page](src/img/screenshoots/Hotel-selection.png?raw=true "Hotel Selection Page")
 
 Finally, user will see a short summary page, confirming previous choices and allowing them to pay.
 
