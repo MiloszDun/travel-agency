@@ -6,7 +6,7 @@ I wanted to get some practice with Material UI and refresh my design skills, and
 All the images come from https://unsplash.com.
 
 ### Current status
-About 70% of the front-end is done – only the final page remains. No backend functionalities implemented yet.
+About 90% of the front-end is done – only the final page remains. Enabled simple filtering on the Hotels page, based on previous selection and user-selected filters. 
 
 ### Setup
 Use `npm run` to start the app.
