@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-agency/static/css/main.e6c13ad2.css",
-    "main.js": "/travel-agency/static/js/main.8da8d21a.js",
+    "main.js": "/travel-agency/static/js/main.ef994532.js",
     "static/media/Desert-Walk.jpg": "/travel-agency/static/media/Desert-Walk.a19f10abd427a2f947ce.jpg",
     "static/media/Tiger.jpg": "/travel-agency/static/media/Tiger.3a2bf4c916cfb92aafaa.jpg",
     "static/media/Colloseum.jpg": "/travel-agency/static/media/Colloseum.afe30cc11f9b72715b1b.jpg",
@@ -17,10 +17,10 @@
     "static/media/6.jpg": "/travel-agency/static/media/6.17270fecb851be8cd2ed.jpg",
     "index.html": "/travel-agency/index.html",
     "main.e6c13ad2.css.map": "/travel-agency/static/css/main.e6c13ad2.css.map",
-    "main.8da8d21a.js.map": "/travel-agency/static/js/main.8da8d21a.js.map"
+    "main.ef994532.js.map": "/travel-agency/static/js/main.ef994532.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8da8d21a.js"
+    "static/js/main.ef994532.js"
   ]
 }
