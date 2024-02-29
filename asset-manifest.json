@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/travel-agency/static/css/main.e6c13ad2.css",
+    "main.js": "/travel-agency/static/js/main.8da8d21a.js",
+    "static/media/Desert-Walk.jpg": "/travel-agency/static/media/Desert-Walk.a19f10abd427a2f947ce.jpg",
+    "static/media/Tiger.jpg": "/travel-agency/static/media/Tiger.3a2bf4c916cfb92aafaa.jpg",
+    "static/media/Colloseum.jpg": "/travel-agency/static/media/Colloseum.afe30cc11f9b72715b1b.jpg",
+    "static/media/Baloons.jpg": "/travel-agency/static/media/Baloons.198c64e10e23c6fb96f2.jpg",
+    "static/media/Snowboard.jpg": "/travel-agency/static/media/Snowboard.d3daec2ff486592765b2.jpg",
+    "static/media/2.jpg": "/travel-agency/static/media/2.73a1423e3331afc93278.jpg",
+    "static/media/4.jpg": "/travel-agency/static/media/4.6d9a051708752120c073.jpg",
+    "static/media/8.jpg": "/travel-agency/static/media/8.0ce1d04792d99d88ed42.jpg",
+    "static/media/3.jpg": "/travel-agency/static/media/3.5d3cddc12360c4673ed0.jpg",
+    "static/media/1.jpg": "/travel-agency/static/media/1.6fbaf9d9996b8f5009a3.jpg",
+    "static/media/5.jpg": "/travel-agency/static/media/5.6e79da8722ae05927bc4.jpg",
+    "static/media/7.jpg": "/travel-agency/static/media/7.2ba84c195fef1d5909dd.jpg",
+    "static/media/6.jpg": "/travel-agency/static/media/6.17270fecb851be8cd2ed.jpg",
+    "index.html": "/travel-agency/index.html",
+    "main.e6c13ad2.css.map": "/travel-agency/static/css/main.e6c13ad2.css.map",
+    "main.8da8d21a.js.map": "/travel-agency/static/js/main.8da8d21a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8da8d21a.js"
+  ]
+}
