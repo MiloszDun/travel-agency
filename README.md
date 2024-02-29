@@ -1,4 +1,6 @@
 ## What is this
+Live app on https://miloszdun.github.io/travel-agency/
+
 This is a holiday booking app for a travel agency.
 
 User can select their ideal travel package, and select hotels. The app takes care of filtering data (based on location and user preferences), and presents all information in a clear UI.
