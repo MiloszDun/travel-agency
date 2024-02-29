@@ -1,9 +1,14 @@
 ## What is this
-This is a simple webapp for a travel agency.
+This is a holiday booking app for a travel agency.
 
-I wanted to get some practice with Material UI and refresh my design skills – this was a great project for both of them.
+User can select their ideal travel package, and select hotels. The app takes care of filtering data (based on location and user preferences), and presents all information in a clear UI.
 
-All the images used come from https://unsplash.com.
+### Why build it
+I wanted to refresh my design skills, and play around with Material UI components. I adapted an old website design I created a few years ago (I fancied going into design when I was younger, before realizing that coding is ultimately much more satisfying).
+
+I'm especially happy with the "graying out" of filters on the Hotel Selection page. It's such a small thing, but I think it makes a massive difference.
+
+On the coding side, this was a simple exercise in standard data filtering in React. Nothing fancy, but I believe sharpening the fundamentals is always useful.
 
 ## How it works
 
@@ -25,3 +30,7 @@ Finally, user will see a short summary page, confirming previous choices and all
 
 ## Setup
 Use `npm start` to start the app.
+
+### Images
+
+All the images used come from https://unsplash.com.

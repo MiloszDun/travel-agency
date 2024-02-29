@@ -1,6 +1,6 @@
 import { AppProvider } from './data/AppContext';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import CssBaseline from '@mui/material/CssBaseline';
 import WelcomePage from './pages/WelcomePage';
 import PackagesPage from './pages/PackagesPage';
